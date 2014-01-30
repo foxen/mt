@@ -1,0 +1,49 @@
+/*
+ * вкладка агентов, стиль строк таблицы
+ */
+
+.paused .x-grid3-row-table{
+  color:#7F7F7F;
+}
+.x-grid3-row-selected.paused .x-grid3-row-table {
+    color:#7F7F7F;
+}
+.x-grid3-row-over.paused .x-grid3-row-table {
+    color:#7F7F7F;
+}
+.x-grid3-row-selected.paused.x-grid3-row-over .x-grid3-row-table {
+    color:#7F7F7F;
+}
+
+
+/* 
+ * вкладка лицензий, стиль строк таблицы 
+ */
+
+.taken .x-grid3-row-table{ 
+  color:#15428B;
+}
+.x-grid3-row-selected.taken .x-grid3-row-table {
+    color:#15428B;
+}
+.x-grid3-row-over.taken .x-grid3-row-table {
+    color:#15428B;
+}
+.x-grid3-row-selected.taken.x-grid3-row-over .x-grid3-row-table {
+    color:#15428B;
+}
+
+/******************************************/
+
+.free .x-grid3-row-table{ 
+    color:#20AF0E;
+}
+.x-grid3-row-selected.free .x-grid3-row-table {
+    color:#20AF0E;
+}
+.x-grid3-row-over.free .x-grid3-row-table {
+    color:#20AF0E;
+}
+.x-grid3-row-selected.free.x-grid3-row-over .x-grid3-row-table {
+    color:#20AF0E;
+}

@@ -1,0 +1,10 @@
+.btnwidgetlbl {
+    color: #15428B;
+    font-family: "Sans-serif", sans-serif;
+    text-align:center;
+}
+
+.x-btn-icon .x-btn-large .x-btn-text {
+    height: 48px;
+    width: 48px;
+}

@@ -1,0 +1,21 @@
+.ordered {
+    background-color: #B6FF9B;
+}
+.bordered {
+    background-color: #D4D4D4;
+}
+
+.total {
+    color: blue;
+}
+
+.sended .x-grid3-row-table{
+  color:#7F7F7F;
+}
+.accepted .x-grid3-row-table{
+  color:#002480;
+}
+
+.debtor {
+  background-color:#FE5858;
+}

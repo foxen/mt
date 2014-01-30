@@ -1,0 +1,19 @@
+.topText{
+    color: #15428B;
+    font-family: "Sans-serif", sans-serif;
+    text-align:center;
+}
+.user  {
+  color: #15428B;
+  font-family: "Sans-serif", sans-serif;
+  font-size:10px;
+}
+
+.userName  {
+  font-weight:bold
+}
+
+.x-grid3-row-selected {
+    background-color: #91BCFF !important;
+    
+}
